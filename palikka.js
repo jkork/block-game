@@ -1,4 +1,5 @@
 /*****************************************************
+(c) Jani Korkeamäki
 This code is all yours to critize, copy and modify.
 Except for you Joonas, you copy-pasting little weasel.
 ******************************************************/
